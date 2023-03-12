@@ -30,6 +30,7 @@ hr{
     display: inline-block;
     height: 2.5px;
     width: 95%;
+    margin: 0.5em;
 }
 
 footer{
@@ -44,4 +45,46 @@ footer{
 
 footer p{
     color: #222222;
+}
+
+/************************************************************
+******************* horizontal navigation *******************
+*************************************************************/
+
+body > header > nav.horizontal li{
+    width: 16.95em;
+}
+
+nav.horizontal li{
+    border: 0.02em solid black;
+    display: block;
+    float: left;
+    text-align: center;
+    background-color: #22A39F;
+}
+
+nav.horizontal a{
+    text-align: center;
+    font-size: 1.4em;
+    line-height: 1.8em;
+}
+
+nav.horizontal a:link{
+    color: #434242;
+    text-decoration: none;
+}
+
+nav.horizontal a:visited{
+    color: #434242;
+    text-decoration: none;
+}
+
+nav.horizontal a:hover{
+    color: #222222;
+    text-decoration: underline;
+}
+
+nav.horizontal a:active{
+    color: #222222;
+    text-decoration: underline;
 }
