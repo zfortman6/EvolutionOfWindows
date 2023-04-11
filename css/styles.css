@@ -1,3 +1,17 @@
+body{
+    background-color: #F6F1F1; 
+    color: #000000;
+    font-family: 'Kreon', serif;
+}
+
 h1{
-    color: red; /*To make sure that the stylesheet is linked up properly*/
+    font-family: 'Heebo', sans-serif;
+}
+
+.navbar{
+    background-color: #19A7CE;
+}
+
+nav div.icon{
+    padding-left: 0.5%;
 }
