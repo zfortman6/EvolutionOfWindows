@@ -11,6 +11,6 @@ Michael Trout & Zachary Fortman
 - [Bootstrap](https://getbootstrap.com/ "getbootstrap.com")
 - [Google Fonts](https://fonts.google.com/ "fonts.google.com")
     - [Heading Font](https://fonts.google.com/specimen/Heebo?query=Heebo)
-        - [Body Font](https://fonts.google.com/specimen/Kreon?query=Kreo)
+    - [Body Font](https://fonts.google.com/specimen/Kreon?query=Kreo)
 - [Font Awesome](https://fontawesome.com/ "fontawesome.com")
     - [Windows Icon](https://fontawesome.com/icons/windows?f=brands&s=solid "windows icon")
