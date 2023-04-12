@@ -9,6 +9,7 @@ body{
 
 h1{
     font-family: 'Heebo', sans-serif;
+    font-weight: 700;
 }
 
 p{
@@ -42,4 +43,12 @@ footer{
 
 footer > div.container{
     min-height: 100%;
+}
+
+/*media query*/
+
+@media screen and (max-width: 991px){ /*Allows me to make changes to the md or smaller screen size where bootstrap doesn't*/
+    #windows-gui{
+        padding-top: 1em;
+    }
 }
